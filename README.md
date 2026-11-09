@@ -1,4 +1,2 @@
 - 👋 Hi, I’m Sankeertana
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me : sankeertana24@gmail.com
+- 📫 How to reach me : sankeertana2405@gmail.com
